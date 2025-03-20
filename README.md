@@ -52,4 +52,4 @@ The behaviour tree is working following these sequence conditions. They are give
 9. **let_object:** This will allow the robot to keep the object down and placed into the desired position. 
 
 ### Discussion
-This lab will allow us to learn how to intregrate different tasks of robot by using different behaviour. This is small example of that. For the intregation of the previous lab, only the lauch file was changed to excute the intregation of the labs where it only uses its previous lab to plan the robot path with obstracles.  
+This lab will allow us to learn how to intregrate different tasks of robot by using different behaviour. This is small example of that. For the intregation of the previous lab, only the lauch file was changed to excute the intregation of the labs where it only uses its previous lab to plan the robot path with obstracles.. 
